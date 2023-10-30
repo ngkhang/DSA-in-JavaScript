@@ -7,7 +7,9 @@
   - [Topics Overview](#topics-overview)
     - [Big-O](#big-o)
     - [Data Structures](#data-structures)
+      - [Arrays](#arrays)
     - [Algorithms](#algorithms)
+      - [Recursion](#recursion)
   - [Resources](#resources)
 
 </details>
@@ -18,14 +20,33 @@
 
 ### Big-O
 
-- Code example: [🔗View](BigO/archives/)
+- Details: [🔗Big-0 Notation](BigO/README.md)
+- Code example: [🔗Archives](BigO/archives/)
 
 - [x] Time complexity
 - [x] Space complexity
 
 ### Data Structures
 
+| #   | Title             |
+| --- | ----------------- |
+| 1   | [Arrays](#arrays) |
+
+#### Arrays
+
+- [🔗Detail](DataStructures/Arrays/README.md)
+- [🔗Archives](DataStructures/Arrays/archives/)
+
 ### Algorithms
+
+| #   | Title                   |
+| --- | ----------------------- |
+| 1   | [Recursion](#recursion) |
+
+#### Recursion
+
+- [🔗Detail](Algorithms/Recursion/README.md)
+- [🔗Archives](DataStructures/Recursion/archives/)
 
 ---
 
