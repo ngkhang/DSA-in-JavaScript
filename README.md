@@ -20,11 +20,8 @@
 
 ### Big-O
 
-- Details: [🔗Big-0 Notation](BigO/README.md)
-- Code example: [🔗Archives](BigO/archives/)
-
-- [x] Time complexity
-- [x] Space complexity
+- [🔗Detail](01-BigO/README.md)
+- [🔗Archives](01-BigO/archives/)
 
 ### Data Structures
 
@@ -34,8 +31,8 @@
 
 #### Arrays
 
-- [🔗Detail](DataStructures/Arrays/README.md)
-- [🔗Archives](DataStructures/Arrays/archives/)
+- [🔗Detail](02-DataStructures/01-Arrays/README.md)
+- [🔗Archives](02-DataStructures/01-Arrays/archives/)
 
 ### Algorithms
 
@@ -45,8 +42,8 @@
 
 #### Recursion
 
-- [🔗Detail](Algorithms/Recursion/README.md)
-- [🔗Archives](DataStructures/Recursion/archives/)
+- [🔗Detail](03-Algorithms/01-Recursion/README.md)
+- [🔗Archives](03-Algorithms/01-Recursion/archives/)
 
 ---
 
